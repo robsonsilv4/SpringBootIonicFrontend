@@ -28,7 +28,8 @@ import { ClienteService } from "../services/domain/cliente.service";
     ErrorInterceptorProvider,
     AuthService,
     StorageService,
-    ClienteService
+    ClienteService,
+    ProdutoService
   ]
 })
 export class AppModule {}
